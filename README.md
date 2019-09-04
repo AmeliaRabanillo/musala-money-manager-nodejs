@@ -1,7 +1,7 @@
 Requirements
-*NodeJS
-*npm
-*MongoDB
+1.NodeJS
+2.npm
+3.MongoDB
 
 Instructions
 1. Clone this repo or download it
